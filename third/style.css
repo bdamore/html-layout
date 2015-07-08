@@ -1,0 +1,53 @@
+body, html {
+  height: 100%;
+}
+
+.writing {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#one {
+  background-color: lightgray;
+  width: 100%;
+  height: 15%;
+  position: relative;
+}
+
+#two {
+  background-color: white;
+  width: 100%;
+  height: 25%;
+}
+
+#three {
+  background-color: cornflowerblue;
+  width: 100%;
+  height: 15%;
+}
+
+#four {
+  background-color: turquoise;
+  width: 100%;
+  height: 15%;
+}
+
+#five {
+  background-color: lightgreen;
+  width: 100%;
+  height: 15%;
+}
+
+#six {
+  background-color: yellow;
+  width: 100%;
+  height: 15%;
+}
+
+#box {
+  position: absolute;
+  top: 10%;
+  left: 3%;
+  height: 80%;
+  width: 6%;
+  background: cornflowerblue;
+}

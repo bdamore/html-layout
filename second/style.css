@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+}
+
+#left{
+  height: 100%;
+  width: 100%;
+  background-color: royalblue;
+  position: relative;
+}
+
+#middle{
+  right: 33%;
+  height: 100%;
+  width: 33%;
+  position: absolute;
+  background: turquoise;
+}
+
+#right{
+  left: 66.6666%;
+  height: 100%;
+  width: 33%;
+  background-color: lime;
+  position: absolute;
+}
+
+#bottom_right{
+  background-color: red;
+  top: 75%;
+  left: 66.66666%;
+  /* background-image: url("https://goo.gl/adUAAd"); */
+  height: 25%;
+  width: 33%;
+  position: absolute;
+}
